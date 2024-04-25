@@ -1,7 +1,7 @@
 <template>
     <main class="container mt-custom ">
         <div class="home bg-success text-white rounded text-center shadow mb-4">
-            <h1>BISMILLAHIRROHMANIRROHIIM</h1>
+            <h1>BISMILLAH</h1>
             <p class="lead content">
                 Aplikasi ini diperuntukkan untuk kemudahan menghafal Al-Quran dengan metode JARIMATIKA. Aplikasi ini disusun dengan sumber ini dari
                 <a href="https://quran.kemenag.go.id/" class="text-decoration-none text-warning"
