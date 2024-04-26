@@ -8,7 +8,6 @@
                     target="_blank">Kementrian Agama Republik Indonesia
                 </a> dengan murottal
                 <strong>Misyari Rasyid Al-'Afasi</strong>.
-                untuk memenuhi syarat kualifikasi dan media penelitian utama menuju gelar Magister
             </p>
             <!-- <div>
                 <router-link :to="{ name: 'home' }" class="btn btn-warning m-1">Surah</router-link>
