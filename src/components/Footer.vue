@@ -8,7 +8,7 @@
                 <div class="col-md-6">
                     <h5>Tahfidz Jarimatika</h5>
                     <p class="text-muted">
-                        Sebuah Aplikasi Oleh Rizky Mutmainnah yang digunakan untuk pemudahan Tahfidz dengan metode jarimatika.
+                        Sebuah Aplikasi Oleh Rizky Mutmainnah Amir yang digunakan untuk pemudahan Tahfidz dengan metode jarimatika.
                     </p>
                 </div>
                 <div class="col-md-2">
