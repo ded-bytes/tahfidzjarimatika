@@ -36,7 +36,7 @@
             <div class="row">
                 <div class="col-md-12 justify-content-center text-center">
                     <span class="">
-                        Made for Rizky Mutmainnah . All Rights & Exclusivity Included 
+                        Made for Rizky Mutmainnah Amir . All Rights & Exclusivity Included 
                     </span>
                 </div>
             </div>
