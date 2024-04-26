@@ -8,7 +8,7 @@
                     target="_blank">Kementrian Agama Republik Indonesia
                 </a> dengan murottal
                 <strong>Misyari Rasyid Al-'Afasi</strong>, serta Sumber database API dari <a href="https://equran.id/" class="text-decoration-none text-warning"
-                    target="_blank">Platform E-Quran.ID </a> untuk menjamin originalitas dan akurasi dari konten Al_Quran.
+                    target="_blank">Platform E-Quran.ID </a> untuk menjamin originalitas dan akurasi dari konten.
             </p>
             <!-- <div>
                 <router-link :to="{ name: 'home' }" class="btn btn-warning m-1">Surah</router-link>
