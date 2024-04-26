@@ -12,7 +12,7 @@
             <div class="collapse navbar-collapse" id="navbarCollapse">
                 <ul class="navbar-nav me-auto mb-2 mb-md-0">
                     <li class="nav-item">
-                        <router-link :to="{ name: 'home' }" class="nav-link">SURAT</router-link>
+                        <router-link :to="{ name: 'home' }" class="nav-link">4 JENIS AUDIO</router-link>
                     </li>
                     <!-- dropdown -->
                     <!-- <li class="nav-item dropdown">
