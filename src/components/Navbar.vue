@@ -30,8 +30,8 @@
                         </ul>
                     </li> -->
                 </ul>
-                <a href="https://www.instagram.com/pammipams_/" class="btn btn-success float-end btn-custom"
-                    target="_blank">DEVELOPER 🔗
+                <a href="https://jarimatika-costum-audio-j65q4hsx9-pammipams.vercel.app/artist" class="btn btn-success float-end btn-custom"
+                    target="_blank">COSTUM AUDIO 🔗
                 </a>
             </div>
         </div>
