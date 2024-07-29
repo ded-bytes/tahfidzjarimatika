@@ -30,7 +30,7 @@
                         </ul>
                     </li> -->
                 </ul>
-                <a href="https://jarimatika-costum-audio-j65q4hsx9-pammipams.vercel.app/artist" class="btn btn-success float-end btn-custom"
+                <a href="https://jarimatika-costum-audio.vercel.app/" class="btn btn-success float-end btn-custom"
                     target="_blank">4 JENIS AUDIO 🔗
                 </a>
             </div>
