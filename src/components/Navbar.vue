@@ -12,7 +12,7 @@
             <div class="collapse navbar-collapse" id="navbarCollapse">
                 <ul class="navbar-nav me-auto mb-2 mb-md-0">
                     <li class="nav-item">
-                        <router-link :to="{ name: 'home' }" class="nav-link">4 JENIS AUDIO</router-link>
+                        <router-link :to="{ name: 'home' }" class="nav-link">SURAT</router-link>
                     </li>
                     <!-- dropdown -->
                     <!-- <li class="nav-item dropdown">
@@ -30,8 +30,8 @@
                         </ul>
                     </li> -->
                 </ul>
-                <a href="https://jarimatika-costum-audio-j65q4hsx9-pammipams.vercel.app/artist" class="btn btn-success float-end btn-custom"
-                    target="_blank">COSTUM AUDIO 🔗
+                <a href="https://www.instagram.com/pammipams_/" class="btn btn-success float-end btn-custom"
+                    target="_blank">DEVELOPER 🔗
                 </a>
             </div>
         </div>
